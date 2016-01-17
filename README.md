@@ -127,7 +127,7 @@ IP/TCP/ICMP/UDP/ARP 這些網路層和傳輸層協定上，保證了其代碼的
 
 ###Nimbits
 
-> Nimbits可以存储和处理特定的数据类型，数据可以是时间标记的或地理标记的。作为服务的公用平台是可用的，或者你也可以下载这个软件并部署它到谷歌应用引擎、或亚马逊EC2上的J2EE服务器上、或一个树莓派上。它支持多种编程语言，包括Arduino、JavaScript、HTML或Nimbits.io Java库。
+> Nimbits可以除存和處理特定的數據類型，數據可以是時間標記的或地理標記的。作為服務的公用平台是可用的，或者你也可以下载這個軟體並部屬它到谷歌應用引擎、或亞馬遜EC2上的J2EE服務器上、或一個樹梅派上。它支持多种编程語言，包括Arduino、JavaScript、HTML或Nimbits.io Java库。
 
 ###OpenRemote
 
